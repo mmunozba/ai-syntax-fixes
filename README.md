@@ -1,4 +1,4 @@
-# Fixing Syntax Errors in Source Code Using Deep Learning
+# Fixing Syntax Errors Using Deep Learning
 
 A CLI application written in Python that locates and fixes syntax errors in source code using the PyTorch library and deep learning with reccurent neural networks.
 This project was created as part of the "Analyzing Software with Deep Learning" course at the University of Stuttgart.
