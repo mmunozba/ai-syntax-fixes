@@ -1,9 +1,9 @@
 # Fixing Syntax Errors Using Deep Learning
 
 A CLI application written in Python that locates and fixes syntax errors in source code using the PyTorch library and deep learning with reccurent neural networks.
-This project was created as part of the "Analyzing Software with Deep Learning" course at the University of Stuttgart.
+This project was created as part of the [Analyzing Software using Deep Learning](https://software-lab.org/teaching/summer2021/asdl/) course at the University of Stuttgart.
 
-For detailed information on the architecture and model performance please check the [project paper](project-report.pdf).
+Detailed information on the architecture and model performance can be found in the [project paper](project-report.pdf).
 
 
 ## Contents
