@@ -1,6 +1,10 @@
 # Fixing Syntax Errors in Source Code Using Deep Learning
 
-Using deep learning with RNNs to detect and fix syntax errors in source code.
+A CLI application written in Python that locates and fixes syntax errors in source code using the PyTorch library and deep learning with reccurent neural networks.
+This project was created as part of the "Analyzing Software with Deep Learning" course at the University of Stuttgart.
+
+For detailed information on the architecture and model performance please check the [project paper](project-report.pdf).
+
 
 ## Contents
 
